@@ -1,4 +1,4 @@
-###Honours Project ###
+# Something
 
 Model-free Reinforcement Learning (RL) has had an enormous impact in domains where reward
 functions are well-defined and actions are discrete (see MuZero) [1]. This success has not been fully
