@@ -3,6 +3,14 @@ from brax.training.agents.ppo import train as ppo
 import matplotlib.pyplot as plt
 from datetime import datetime
 
+
+"""
+train_ppo 
+
+- uses preset parameters to train given environment using PPO 
+- plots training in a separate file 
+
+"""
 def train_ppo(env, training_plot_path):
     """
     Trains an agent using PPO 
