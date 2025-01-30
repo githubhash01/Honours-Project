@@ -108,5 +108,3 @@ python3 renderer/visualiser.py --model-path path/to/saved/model
 
 ---
 
-This README provides a **comprehensive overview** of the project. Let me know if you'd like anything modified! 🚀
-
